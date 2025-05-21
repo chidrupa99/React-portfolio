@@ -1,7 +1,7 @@
 {
-  "name": "pf-react",
+  "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://chidrupa99.github.io/React_portfolio",
+  "homepage": "https://chidrupa99.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -17,6 +17,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "cdeploy": "gh-pages --cname mchidrupa.com -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.3.0"
   }
 }

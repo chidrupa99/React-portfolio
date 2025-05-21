@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-portfolio/static/css/main.9265bb51.css",
-    "main.js": "/React-portfolio/static/js/main.e9e6317a.js",
-    "static/js/787.cf482a7c.chunk.js": "/React-portfolio/static/js/787.cf482a7c.chunk.js",
+    "main.js": "/React-portfolio/static/js/main.a2b2069c.js",
+    "static/js/787.1c014569.chunk.js": "/React-portfolio/static/js/787.1c014569.chunk.js",
     "static/media/Chidrupa_img.png": "/React-portfolio/static/media/Chidrupa_img.81ae9047d983683d8eef.png",
     "static/media/LassiAndSpice.png": "/React-portfolio/static/media/LassiAndSpice.3643093a56482954b6d0.png",
     "static/media/Inflection.png": "/React-portfolio/static/media/Inflection.fe593d8c79876b1a95f0.png",
@@ -17,11 +17,11 @@
     "static/media/Susannah_img.png": "/React-portfolio/static/media/Susannah_img.b8050d904705960e365b.png",
     "index.html": "/React-portfolio/index.html",
     "main.9265bb51.css.map": "/React-portfolio/static/css/main.9265bb51.css.map",
-    "main.e9e6317a.js.map": "/React-portfolio/static/js/main.e9e6317a.js.map",
-    "787.cf482a7c.chunk.js.map": "/React-portfolio/static/js/787.cf482a7c.chunk.js.map"
+    "main.a2b2069c.js.map": "/React-portfolio/static/js/main.a2b2069c.js.map",
+    "787.1c014569.chunk.js.map": "/React-portfolio/static/js/787.1c014569.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9265bb51.css",
-    "static/js/main.e9e6317a.js"
+    "static/js/main.a2b2069c.js"
   ]
 }
